@@ -1,0 +1,65 @@
+#bg{
+background-color: #C7C8CC;
+}
+    
+#containerOne{
+background-color: aliceblue;
+max-height: 500px;
+border-radius: 25px;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+padding-top: 10px;
+padding-bottom: 400px;
+padding-right: 10px;
+padding-left: 10px;
+width: 90%;
+}
+#title{
+display: flex;
+justify-content: center;
+font-family: 'PT Sans Narrow', sans-serif;
+padding-top: 20px;
+font-size: 30px;
+padding-bottom: 5px;
+}
+#name{
+display: flex;
+justify-content: center;
+font-family: 'PT Sans Narrow', sans-serif;
+padding-bottom: 20px;
+font-size: 15px;
+}
+#containerTwo{
+padding: 10px;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+.notes{
+background-color: #B0EBB4;
+height: 150px;
+width: 150px;
+margin-right: 5px;
+margin-left: 5px;
+margin-bottom: 30px;
+resize: none;
+position: relative;
+}
+#btn{
+margin-left: 5px;
+height:155px;
+width: 150px;
+}
+.remove{
+    position: relative;
+    height: 20px;
+    width: 20px;
+    color: red;
+    right: 28px;
+    top: 2px;
+    border: none;
+    cursor: pointer;
+}
+    
